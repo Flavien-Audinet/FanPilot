@@ -8,6 +8,7 @@
 ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon%20%26%20Intel-✓-555)
 ![Swift](https://img.shields.io/badge/SwiftUI-Swift%205-F05138?logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/helper-C-00599C?logo=c)
+![Licence](https://img.shields.io/badge/licence-tous%20droits%20réservés-red)
 ![Version](https://img.shields.io/badge/version-1.0.0-2ea44f)
 
 </div>
@@ -152,6 +153,12 @@ L'app est **terminée et utilisée au quotidien**. Pistes pour la suite :
 - [ ] signature Developer ID + notarisation (plus de confirmation au premier lancement) ;
 - [ ] export CSV de l'historique ;
 - [ ] alertes de température personnalisables.
+
+---
+
+## 📜 Licence
+
+**Tous droits réservés.** Tu peux consulter, télécharger et utiliser l'app gratuitement ; la modification, la revente et la redistribution sont interdites sans accord écrit. Détails : [LICENSE.md](LICENSE.md).
 
 ---
 
