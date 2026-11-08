@@ -112,11 +112,11 @@ FanPilot/
     │   ├── RootView.swift      navigation entre les onglets
     │   ├── ContentView.swift   tableau de bord (températures, ventilateurs)
     │   ├── Components.swift    jauges, cartes, éléments réutilisables
-    │   ├── FanController.swift modes Auto / Manuel / Courbe, installation du helper
+    │   ├── FanController.swift  modes Auto / Manuel / Courbe, installation du helper
     │   ├── SMC.swift           lecture des capteurs SMC
-    │   ├── SystemMonitor.swift CPU, GPU, mémoire, disque, puissance
+    │   ├── SystemMonitor.swift  CPU, GPU, mémoire, disque, puissance
     │   ├── SystemStats.swift   calculs d'utilisation
-    │   ├── ProcessSampler.swift consommation par processus (via le helper)
+    │   ├── ProcessSampler.swift  consommation par processus (via le helper)
     │   ├── AppsView.swift      onglet « consommation par app »
     │   ├── Battery.swift       lecture de l'état de la batterie
     │   ├── BatteryView.swift   onglet batterie
